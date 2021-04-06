@@ -2,7 +2,7 @@
 
 <h1 align="center">Gabriel Araujo 👨‍💻</h1><br>
 <p>😀 Olá, meu nome é Gabriel Araujo.</p>
-<p>💻 Sou estudande e procuro mercado na area de TI.</p>
+<p>💻 Sou estudante e procuro mercado na area de TI.</p>
 <p>🎓 Cursando Técnico em Análise e Desenvolvimento de Sistemas  – Etec de Araçatuba - Extensão EE Manoel Bento da Cruz. Com previsão de encerramento em Jul/2021</p> 
 <p>🚀 Habilidades (Não possuo domínio, mas tive um bom contato por conta do curso em que me encontro): HTML5, CSS3, JavaScript, Bootstrap, PHP, Java, Banco de dados MySQL,Ionic e C++.</p>
 <p align="left">
